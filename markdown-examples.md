@@ -40,3 +40,8 @@ To add links to [Example.com](https://www.example.com).
 	- This is a sub item
 
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| data | data | data |
+| data | data | data |
+
