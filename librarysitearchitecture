@@ -1,0 +1,16 @@
+#Library Site Architecture
+##Notes for class weeks 14-15
+
+#####Goals:
+* Connect everything!
+* Wordpress is home page, omeka is digital library, koha is library catalog
+
+I've decided to theme my page as a library for cats- the Purrfect County Public Library for Cats. 
+I created a logo and banner on Canva and wrote a basic description on the home page.
+The digital archives is a photo archive of "the founders" of Purrfect County- i.e. my first cats
+I'll write a fake mission and vision on the about page of wordpress
+I plan to catalog books that are all cat related on koha
+
+
+Notes: all login info for admin sides of my pages are in sticky notes
+URLS for admin pages are in github notes
