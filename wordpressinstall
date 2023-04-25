@@ -1,0 +1,20 @@
+#Install Wordpress
+
+##Notes from Week 10 assignment
+
+Documentation from install directly from Wordpress can be found [here](https://developer.wordpress.org/advanced-administration/before-install/howto-install/)
+
+#####Goals:
+* Install Wordpress
+* Download and extract Wordpress files
+* Set up a user and database in MqSQL
+* Set up login files
+* Change file ownership
+* Finsh installazation and customize site
+
+My wordpress is at: http://34.162.141.175/wordpress/
+
+Note to self: to get back to the admin side of things, go here http://34.162.141.175/wordpress/wp-login.php
+
+
+The name of my page is just wordpress- to change it in the future use sudo mv 
